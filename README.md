@@ -2,4 +2,5 @@
 
 ## Social Media Icons Hover by Glock-Atom
 
-![image](https://user-images.githubusercontent.com/58397806/121399149-73141b00-c956-11eb-80dc-caead3419b25.png)
+![Animation2](https://user-images.githubusercontent.com/58397806/121400272-b0c57380-c957-11eb-8db6-c548bb1cd7b4.gif)
+
